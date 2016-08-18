@@ -1,2 +1,2 @@
 # wifire.github.io
-Home for all WiFire SDK documentation
+Home to all WiFire SDK documentation
